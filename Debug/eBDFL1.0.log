@@ -1,0 +1,25 @@
+﻿生成启动时间为 2018/11/6 20:59:12。
+     1>项目“D:\Application\eBDFL1.0\eBDFL1.0\eBDFL1.0.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>ClCompile:
+         E:\RecreationSoftware\MicrosoftVS2012\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _MBCS /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\eBDFL1.0.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         E:\RecreationSoftware\MicrosoftVS2012\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _MBCS /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\eBDFL1.0.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt eBDFL1.0.cpp eBDFL1.0Dlg.cpp
+         eBDFL1.0Dlg.cpp
+     1>d:\application\ebdfl1.0\ebdfl1.0\ebdfl1.0dlg.cpp(221): warning C4101: “e”: 未引用的局部变量
+     1>d:\application\ebdfl1.0\ebdfl1.0\ebdfl1.0dlg.cpp(279): warning C4101: “e”: 未引用的局部变量
+     1>d:\application\ebdfl1.0\ebdfl1.0\ebdfl1.0dlg.cpp(344): warning C4101: “e”: 未引用的局部变量
+         eBDFL1.0.cpp
+         正在生成代码...
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.0\bin\x86\rc.exe /D _DEBUG /D _AFXDLL /l"0x0804" /IDebug\ /nologo /fo"Debug\eBDFL1.0.res" eBDFL1.0.rc 
+       Link:
+         E:\RecreationSoftware\MicrosoftVS2012\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Application\eBDFL1.0\Debug\eBDFL1.0.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:E:\RecreationSoftware\MicrosoftVS2012\VC\Include\Manifest\dpiaware.manifest /DEBUG /PDB:"D:\Application\eBDFL1.0\Debug\eBDFL1.0.pdb" /SUBSYSTEM:WINDOWS /STACK:"50000000" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Application\eBDFL1.0\Debug\eBDFL1.0.lib" /MACHINE:X86 Debug\eBDFL1.0.res
+         Debug\eBDFL1.0.obj
+         Debug\eBDFL1.0Dlg.obj
+         Debug\stdafx.obj
+         eBDFL1.0.vcxproj -> D:\Application\eBDFL1.0\Debug\eBDFL1.0.exe
+     1>已完成生成项目“D:\Application\eBDFL1.0\eBDFL1.0\eBDFL1.0.vcxproj”(Rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:31.15
